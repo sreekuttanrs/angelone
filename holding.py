@@ -5,10 +5,10 @@ import json
 from logzero import logger
 
 # Initialize SmartAPI connection with your API key
-api_key = '2LbeUU4Y'
-username = 'V54577000'
-password = '0395'
-token = 'IM2OEKMH4OEPDTPMKFINM3KQGI'
+api_key = '********'
+username = '***********'
+password = '***********'
+token = '***************'
 
 # Initialize SmartAPI connection
 smartApi = SmartConnect(api_key)
